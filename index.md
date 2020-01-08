@@ -1,18 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/finch-xu/finchxu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 
 ### 这里是 虚拟世界的懒猫 的导航主页
 
 - [开源中国的博客](https://my.oschina.net/finchxu)
 - [GitHub](https://github.com/finch-xu)
+
+
+
+
+
+
+
+
 
 
 ### Jekyll Themes
