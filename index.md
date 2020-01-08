@@ -13,10 +13,14 @@
 
 
 
-### Jekyll Themes
+### 博客是大数据学习的内容和一些其他的开发记录
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/finch-xu/finchxu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Hadoop & MapReduce
+- Spark
+- Java & Scala & Python & GoLang
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+(C)COPYRIGHT catl.ink 虚拟世界的懒猫 备案号：冀ICP备18026468号-1
