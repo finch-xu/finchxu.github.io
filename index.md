@@ -25,4 +25,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### 其他的
-(c) COPYRIGHT catl.ink 虚拟世界的懒猫 备案号：冀ICP备18026468号-1
+(C) COPYRIGHT catl.ink 虚拟世界的懒猫 备案号：冀ICP备18026468号-1
